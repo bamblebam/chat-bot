@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\code projects\\conda_test\\model.tflearn"
+all_model_checkpoint_paths: "D:\\code projects\\conda_test\\model.tflearn"
